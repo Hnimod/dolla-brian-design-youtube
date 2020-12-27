@@ -2,7 +2,7 @@
 
 A Landing page suitable for online banking services, fully responsive and make easy to custom with config file
 
-https://dolla-virtual-bank.web.app/
+Demo: https://dolla-virtual-bank.web.app/
 
 <br/>
 
